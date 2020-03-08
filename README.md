@@ -20,4 +20,4 @@ public class{
   }
 }
 ```
-![sodagreen](C:\Users\Mars\Pictures\sususu.PNG)
+[sodagreen](https://weibo.com/sodagreen2010?is_hot=1)
