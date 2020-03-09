@@ -12,6 +12,12 @@
 5. 阿龚
 6. 阿福
 
+这是一行代码
+
+    int x=7;
+    
+这也是一行代码`int x=r;`
+    
 我可以用java写代码：
 ```java
 public class{
